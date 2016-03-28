@@ -1,4 +1,4 @@
-# React Effects Scroll
+# React Effects Scroll based for react 0.14
 React component to animate elements on scroll with animate.css
 <br />
 ## Demo page:
@@ -71,4 +71,3 @@ $ gulp
 
 ## Depending
 https://daneden.github.io/animate.css/
-
